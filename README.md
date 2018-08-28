@@ -1,5 +1,4 @@
 # SVM_imbalance
-SVM performance on imbalance data and SMOTE
 
 
 
